@@ -15,8 +15,10 @@ Users can expect to use the following functions of the map:
 Some of the examples of how to interact with this map application is shown below.
 
 ### Finding the shortest route from point A to B
-[![image](https://github.com/tongyin002/Bear Maps/raw/master/images/shortestpath.png)](#capture)
+<img src="screenshots/shortest.png">
 
 ### Turn by Turn navigation
+<img src="screenshots/turnbyturn.png">
 
 ### Search location with autocomplete
+<img src="screenshots/autocomplete.png">

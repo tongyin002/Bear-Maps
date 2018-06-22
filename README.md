@@ -1,6 +1,6 @@
 # Bear Maps
 
-A mockup map service of Berkeley, CA. is developed using Java built under Maven. This is the 3rd project from the data structure class CS61B from UC Berkeley.
+A mockup map service of Berkeley, CA. is developed using Java built under Maven. This is the 3rd project from the data structure class CS61B Spring 2018 from UC Berkeley.
 
 ## Supported Functions
 
